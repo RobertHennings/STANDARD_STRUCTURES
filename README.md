@@ -28,3 +28,26 @@ The class in this file
 <br>
 The class in this file provides basic plotting methods for all the regularly used purposes like comparing actual and predicted timeseries values for example.
 </br>
+
+
+## Contributing
+### Commit Style
+Please also consider writting meaningful messages in your commits.
+```zsh
+API: an (incompatible) API change
+BENCH: changes to the benchmark suite
+BLD: change related to building numpy
+BUG: bug fix
+DEP: deprecate something, or remove a deprecated object
+DEV: development tool or utility
+DOC: documentation
+ENH: enhancement
+MAINT: maintenance commit (refactoring, typos, etc.)
+REV: revert an earlier commit
+STY: style fix (whitespace, PEP8)
+TST: addition or modification of tests
+REL: related to releasing numpy
+```
+
+## Author
+Robert Hennings, 2025
