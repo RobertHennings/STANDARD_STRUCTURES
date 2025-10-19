@@ -1,0 +1,2 @@
+# Works under Python 3.13.2
+yfinance==0.2.65
